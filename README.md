@@ -36,6 +36,7 @@ Modules
 17. [Password Policy](https://www.drupal.org/project/password_policy) - This module provides a way to enforce restrictions on user passwords by defining password policies.
 18. [Oauth](https://www.drupal.org/project/oauth) - This module implements the OAuth 1.0 standard for use with Drupal and acts as a support module for other modules that wish to use OAuth.
 19. [Security Testing](https://www.drupal.org/project/securitytesting) - Security Testing is a tool for locating XSS, CSRF and SQL Injection vulnerabilities in Drupal contributed modules. This tool will scan the source code of contributed module(s) for vulnerabilities and display warnings.
+20. [ClamAV](https://www.drupal.org/project/clamav) - Drupal integration with the ClamAV virus scanner. This module will verify that files uploaded to a site are not infected with a virus, and prevent infected files from being saved.
 
 Standalone Applications
 -----------------------
