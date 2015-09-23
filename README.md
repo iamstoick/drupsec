@@ -31,6 +31,7 @@ Modules
 16. [Lightweight Directory Access Protocol (LDAP)](https://www.drupal.org/project/ldap) - The Lightweight Directory Access Protocol (LDAP) project provides integration with LDAP for authentication, user provisioning, authorization, feeds, and views.
 17. [Password Policy](https://www.drupal.org/project/password_policy) - This module provides a way to enforce restrictions on user passwords by defining password policies.
 18. [Oauth](https://www.drupal.org/project/oauth) - This module implements the OAuth 1.0 standard for use with Drupal and acts as a support module for other modules that wish to use OAuth.
+19. [Security Testing](https://www.drupal.org/project/securitytesting) - Security Testing is a tool for locating XSS, CSRF and SQL Injection vulnerabilities in Drupal contributed modules. This tool will scan the source code of contributed module(s) for vulnerabilities and display warnings.
 
 Standalone Applications
 -----------------------
