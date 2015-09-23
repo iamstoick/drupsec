@@ -14,6 +14,7 @@ Modules
 -------
 1. [Paranoia](https://www.drupal.org/project/paranoia) - The Paranoia module attempts to identify all the places that a user can evaluate PHP via Drupal's web interface and then block those. It reduces the potential impact of an attacker gaining elevated permission on a Drupal site.
 2. [Security Review](https://www.drupal.org/project/security_review) - The Security Review module automates testing for many of the easy-to-make mistakes that render your site insecure.
+3. [Drupalgeddon](https://www.drupal.org/project/drupalgeddon) - Drupalgeddon (with an "L") checks for backdoors and other traces of known Drupal exploits of "Drupageddon" (no "L"), aka [SA-CORE-2014-005 SQL injection](https://www.drupal.org/SA-CORE-2014-005). Drupalgeddon is not a module; it's a Drush command.
 
 Standalone Applications
 -----------------------
