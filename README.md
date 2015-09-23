@@ -48,4 +48,5 @@ Credits
 1. [Greggles](https://www.drupal.org/u/greggles)
 2. [Droope](https://github.com/droope)
 3. Drupal community and contributors
+4. [Dionach](https://www.dionach.com)
 
