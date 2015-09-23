@@ -17,6 +17,7 @@ Modules
 3. [Drupalgeddon](https://www.drupal.org/project/drupalgeddon) - Drupalgeddon (with an "L") checks for backdoors and other traces of known Drupal exploits of "Drupageddon" (no "L"), aka [SA-CORE-2014-005 SQL injection](https://www.drupal.org/SA-CORE-2014-005). Drupalgeddon is not a module; it's a Drush command.
 4. [Hacked!](https://www.drupal.org/project/hacked) - This module scans the currently installed Drupal, contributed modules and themes, re-downloads them and determines if they have been changed.
 5. [MD5 Check](https://www.drupal.org/project/md5check) - The MD5 Check generates a md5 checksum of all module files. If module is changed a critical security error is generated in watchdog log.
+6. [File Integrity Check](https://www.drupal.org/project/file_integrity) - This module lets the site maintainer “fingerprint” an entire site (except the files below the public:// upload directory) when it is in an untainted state.
 
 Standalone Applications
 -----------------------
