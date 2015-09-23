@@ -24,6 +24,7 @@ Modules
 9. [Unused Modules](https://www.drupal.org/project/unused_modules) - Not really for security but still good to have it here. This is a helper / development module that lists unused modules / projects that can be safely deleted. This makes your repository cleaner and your website faster.
 10. [Login Security](https://www.drupal.org/project/login_security) - Login Security module improves the security options in the login operation of a Drupal site. With Login Security module, a site administrator may protect and restrict access by adding access control features to the login forms (default login form in /user and the block called "login form block").
 11. [Flood Control](https://www.drupal.org/project/flood_control) - This project is intended to add an administration interface for hidden flood control variables in Drupal 7, like the login attempt limiters and any future hidden variables.
+12. [Captcha](https://www.drupal.org/project/captcha) - A CAPTCHA is a challenge-response test most often placed within web forms to determine whether the user is human.
 
 Standalone Applications
 -----------------------
@@ -37,4 +38,5 @@ Credits
 -------
 1. [Greggles](https://www.drupal.org/u/greggles)
 2. [Droope](https://github.com/droope)
+3. Drupal community and contributors
 
