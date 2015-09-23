@@ -28,6 +28,7 @@ Modules
 13. [Spamspan Filter](https://www.drupal.org/project/spamspan) - The SpamSpan module obfuscates email addresses to help prevent spambots from collecting them.
 14. [ACL](https://www.drupal.org/project/acl) - The ACL module, short for Access Control Lists, is an API for other modules to create lists of users and give them access to nodes.
 15. [Content Access](https://www.drupal.org/project/content_access) - This module allows you to manage permissions for content types by role and author. It allows you to specifiy custom view, edit and delete permissions for each content type. Optionally you can enable per content access settings, so you can customize the access for each content node.
+16. [Lightweight Directory Access Protocol (LDAP)](https://www.drupal.org/project/ldap) - The Lightweight Directory Access Protocol (LDAP) project provides integration with LDAP for authentication, user provisioning, authorization, feeds, and views.
 
 Standalone Applications
 -----------------------
