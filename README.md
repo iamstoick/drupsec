@@ -37,6 +37,7 @@ Standalone Applications
 -----------------------
 1. [Droopescan](https://github.com/droope/droopescan) - A plugin-based scanner that aids security researchers in identifying issues with several CMSs, mainly Drupal & Silverstripe.
 2. [CMSmap](https://github.com/dionach/CMSmap) - CMSmap is a python open source CMS scanner that automates the process of detecting security flaws of the most popular CMSs.
+3. [DPScan](https://github.com/maxousc59/Blue-Sky-Information-Security) - Note: No updates from the author. Drupal modules enumerator.
 
 HowTo and Best Practices
 ------------------------
