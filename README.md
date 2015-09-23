@@ -10,6 +10,10 @@ Resources
 5. [Drupal Security Group](https://groups.drupal.org/security)
 6. [Securing your site](https://www.drupal.org/security/secure-configuration)
 7. [Enhancing security using contributed modules](https://www.drupal.org/node/382752)
+8. [The 10 most critical Drupal security risks](http://www.cameronandwilding.com/blog/pablo/10-most-critical-drupal-security-risks)
+9. [Doing Drupal Security Right](https://www.youtube.com/watch?v=FNCfavtz9vQ)
+10. [How to Check Your Drupal Site Security](https://www.ostraining.com/blog/drupal/check-drupal-site-security/)
+11. [How to Restore Your Hacked Site](https://modulesunraveled.com/blog/how-restore-your-hacked-site)
 
 Modules
 -------
