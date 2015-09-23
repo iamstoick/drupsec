@@ -18,6 +18,7 @@ Modules
 4. [Hacked!](https://www.drupal.org/project/hacked) - This module scans the currently installed Drupal, contributed modules and themes, re-downloads them and determines if they have been changed.
 5. [MD5 Check](https://www.drupal.org/project/md5check) - The MD5 Check generates a md5 checksum of all module files. If module is changed a critical security error is generated in watchdog log.
 6. [File Integrity Check](https://www.drupal.org/project/file_integrity) - This module lets the site maintainer “fingerprint” an entire site (except the files below the public:// upload directory) when it is in an untainted state.
+7. [Site Audit](https://www.drupal.org/project/site_audit) - Site Audit is a Drupal static site analysis platform that generates reports with actionable best practice recommendations.
 
 Standalone Applications
 -----------------------
