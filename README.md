@@ -38,6 +38,7 @@ Modules
 19. [Security Testing](https://www.drupal.org/project/securitytesting) - Security Testing is a tool for locating XSS, CSRF and SQL Injection vulnerabilities in Drupal contributed modules. This tool will scan the source code of contributed module(s) for vulnerabilities and display warnings.
 20. [ClamAV](https://www.drupal.org/project/clamav) - Drupal integration with the ClamAV virus scanner. This module will verify that files uploaded to a site are not infected with a virus, and prevent infected files from being saved.
 21. [Spambot](https://www.drupal.org/project/spambot) - Spambot protects the user registration form from spammers and spambots by verifying registration attempts against the [Stop Forum Spam](http://www.stopforumspam.com/) online database. It also adds some useful features to help deal with spam accounts.
+22. [Honeypot](https://www.drupal.org/project/honeypot) - Honeypot uses both the honeypot and timestamp methods of deterring spam bots from completing forms on your Drupal site [read more here](http://www.midwesternmac.com/blogs/jeff-geerling/introducing-honeypot-form-spam). These methods are effective against many spam bots, and are not as intrusive as CAPTCHAs or other methods which punish the user [YouTube](http://www.youtube.com/watch?v=FPOezLL398U).
 
 Standalone Applications
 -----------------------
