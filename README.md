@@ -25,6 +25,7 @@ Modules
 10. [Login Security](https://www.drupal.org/project/login_security) - Login Security module improves the security options in the login operation of a Drupal site. With Login Security module, a site administrator may protect and restrict access by adding access control features to the login forms (default login form in /user and the block called "login form block").
 11. [Flood Control](https://www.drupal.org/project/flood_control) - This project is intended to add an administration interface for hidden flood control variables in Drupal 7, like the login attempt limiters and any future hidden variables.
 12. [Captcha](https://www.drupal.org/project/captcha) - A CAPTCHA is a challenge-response test most often placed within web forms to determine whether the user is human.
+13. [Spamspan Filter](https://www.drupal.org/project/spamspan) - The SpamSpan module obfuscates email addresses to help prevent spambots from collecting them.
 
 Standalone Applications
 -----------------------
