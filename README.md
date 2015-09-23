@@ -26,6 +26,7 @@ Modules
 11. [Flood Control](https://www.drupal.org/project/flood_control) - This project is intended to add an administration interface for hidden flood control variables in Drupal 7, like the login attempt limiters and any future hidden variables.
 12. [Captcha](https://www.drupal.org/project/captcha) - A CAPTCHA is a challenge-response test most often placed within web forms to determine whether the user is human.
 13. [Spamspan Filter](https://www.drupal.org/project/spamspan) - The SpamSpan module obfuscates email addresses to help prevent spambots from collecting them.
+14. [ACL](https://www.drupal.org/project/acl) - The ACL module, short for Access Control Lists, is an API for other modules to create lists of users and give them access to nodes.
 
 Standalone Applications
 -----------------------
