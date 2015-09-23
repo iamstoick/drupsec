@@ -20,7 +20,8 @@ Modules
 5. [MD5 Check](https://www.drupal.org/project/md5check) - The MD5 Check generates a md5 checksum of all module files. If module is changed a critical security error is generated in watchdog log.
 6. [File Integrity Check](https://www.drupal.org/project/file_integrity) - This module lets the site maintainer “fingerprint” an entire site (except the files below the public:// upload directory) when it is in an untainted state.
 7. [Site Audit](https://www.drupal.org/project/site_audit) - Site Audit is a Drupal static site analysis platform that generates reports with actionable best practice recommendations.
-8. [Unused Modules](https://www.drupal.org/project/unused_modules) - Not really for security but still good to have it here. This is a helper / development module that lists unused modules / projects that can be safely deleted. This makes your repository cleaner and your website faster.
+8. [Security Kit](https://www.drupal.org/project/seckit) - SecKit provides Drupal with various security-hardening options. This lets your mitigate the risks of exploitation of different web application vulnerabilities.
+9. [Unused Modules](https://www.drupal.org/project/unused_modules) - Not really for security but still good to have it here. This is a helper / development module that lists unused modules / projects that can be safely deleted. This makes your repository cleaner and your website faster.
 
 Standalone Applications
 -----------------------
