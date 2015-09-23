@@ -15,8 +15,12 @@ Modules
 1. [Paranoia](https://www.drupal.org/project/paranoia) - The Paranoia module attempts to identify all the places that a user can evaluate PHP via Drupal's web interface and then block those. It reduces the potential impact of an attacker gaining elevated permission on a Drupal site.
 2. [Security Review](https://www.drupal.org/project/security_review) - The Security Review module automates testing for many of the easy-to-make mistakes that render your site insecure.
 
+Standalone Applications
+-----------------------
+1. [Droopescan](https://github.com/droope/droopescan) - A plugin-based scanner that aids security researchers in identifying issues with several CMSs, mainly Drupal & Silverstripe.
 
 Credits
 -------
-1. Greggles
+1. [Greggles](https://www.drupal.org/u/greggles)
+2. [Droope](https://github.com/droope)
 
