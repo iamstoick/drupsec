@@ -48,7 +48,12 @@ Standalone Applications
 
 HowTo and Best Practices
 ------------------------
-Coming soon...
+### Javascript
+1. Avoiding unreachable code - The `eval()` function is evil and **SHOULD NOT** be used. The browser has to create an entirely new scripting environment (just like creating a new web page), import all variables from the current scope, execute the script, collect the result, and export the variables back into the original environment. Additionally, the code cannot be cached for optimization purposes. It is both the most powerful and most misused method in JavaScript. Note that JavaScript implicitly uses `eval()` for some other language constructs.
+2. Preventing XSS - All output to the browser that has been provided by a user **SHOULD** be escaped through `Drupal.checkPlain()` first. This is similar to Drupal's PHP `check_plain()` and encodes special characters in a plain-text string for display as HTML.
+3. String Translation - All strings in JavaScript files **SHOULD** be wrapped in `Drupal.t()`, which is an equivalent of the well-known `t()` function. Likewise, there is an equivalent to `format_plural()`, named `Drupal.formatPlural()`. Their parameter order is exactly like their server-side counterparts.
+
+-- *[JavaScript best practices](https://www.drupal.org/node/2297057)*
 
 Credits
 -------
