@@ -53,7 +53,7 @@ HowTo and Best Practices
 2. Preventing XSS - All output to the browser that has been provided by a user **SHOULD** be escaped through `Drupal.checkPlain()` first. This is similar to Drupal's PHP `check_plain()` and encodes special characters in a plain-text string for display as HTML.
 3. String Translation - All strings in JavaScript files **SHOULD** be wrapped in `Drupal.t()`, which is an equivalent of the well-known `t()` function. Likewise, there is an equivalent to `format_plural()`, named `Drupal.formatPlural()`. Their parameter order is exactly like their server-side counterparts.
 
--- *[JavaScript best practices](https://www.drupal.org/node/2297057)*
+Source: *[JavaScript best practices](https://www.drupal.org/node/2297057)*
 
 Credits
 -------
