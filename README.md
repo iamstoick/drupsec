@@ -59,7 +59,7 @@ Source: *[JavaScript best practices](https://www.drupal.org/node/2297057)*
 
 ### Server-side
 1. **Securing Your Site: Clickjacking and X-Frame-Options** - By default Drupal doesn't have support
-   for X-Frame-Options. The `X-Frame-Options` HTTP response header can be used to indicate whether or not a browser should be allowed to render a page in a `<frame>`, `<iframe>` or `<object>` .
+   for `X-Frame-Options`. The `X-Frame-Options` HTTP response header can be used to indicate whether or not a browser should be allowed to render a page in a `<frame>`, `<iframe>` or `<object>` .
    Sites can use this to avoid clickjacking attacks, by ensuring that their content is not embedded into other sites.
 
   Possible values:
@@ -67,13 +67,13 @@ Source: *[JavaScript best practices](https://www.drupal.org/node/2297057)*
   **DENY**: When the `X-Frame-Options` http header is set to this value a page can never be
             embedded in a frame/iframe.<br>
   **SAMEORIGIN**: In this case only the originating domain can embed pages in a frame/iframe.
-            This is specific to a domain including the subdomain. Pages on foo.example.com cannot
-            embed pages from bar.example.com if this value is used.
+            This is specific to a domain including the subdomain. Pages on `foo.example.com` cannot
+            embed pages from `bar.example.com` if this value is used.
 
-  **Example**:
-  In Drupal: `drupal_add_http_header('X-Frame-Options', 'SAMEORIGIN');`
-  In Apache: `Header always append X-Frame-Options SAMEORIGIN`
-  In Nginx: `add_header X-Frame-Options SAMEORIGIN;`
+  **Example**:<br>
+  In Drupal: `drupal_add_http_header('X-Frame-Options', 'SAMEORIGIN');`<br>
+  In Apache: `Header always append X-Frame-Options SAMEORIGIN`<br>
+  In Nginx: `add_header X-Frame-Options SAMEORIGIN;`<br>
   In PHP: `header('X-Frame-Options: SAMEORIGIN');`
 
 Credits
@@ -82,4 +82,5 @@ Credits
 2. [Droope](https://github.com/droope)
 3. Drupal community and contributors
 4. [Dionach](https://www.dionach.com)
+5. [Matt Farina](http://mattfarina.com/)
 
