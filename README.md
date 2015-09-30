@@ -43,6 +43,7 @@ Modules
 22. [Honeypot](https://www.drupal.org/project/honeypot) - Honeypot uses both the honeypot and timestamp methods of deterring spam bots from completing forms on your Drupal site [read more here](http://www.midwesternmac.com/blogs/jeff-geerling/introducing-honeypot-form-spam). These methods are effective against many spam bots, and are not as intrusive as CAPTCHAs or other methods which punish the user [YouTube](http://www.youtube.com/watch?v=FPOezLL398U).
 23. [Taxonomy Access Control](https://www.drupal.org/project/taxonomy_access) - Access control for user roles based on taxonomy categories (vocabulary, terms).
 24. [reCaptcha](https://www.drupal.org/project/recaptcha) - Uses the Google [reCAPTCHA](https://www.google.com/recaptcha) web service to improve the [CAPTCHA](https://www.drupal.org/project/captcha) system and protect email addresses.
+25. [Spamicide](https://www.drupal.org/project/spamicide) - The purpose of Spamicide is to prevent spam submission to any form on your Drupal web site. Spamicide adds an input field to each form then hides it with css, when spam bots fill in the field the form is discarded.
 
 Standalone Applications
 -----------------------
