@@ -42,6 +42,7 @@ Modules
 21. [Spambot](https://www.drupal.org/project/spambot) - Spambot protects the user registration form from spammers and spambots by verifying registration attempts against the [Stop Forum Spam](http://www.stopforumspam.com/) online database. It also adds some useful features to help deal with spam accounts.
 22. [Honeypot](https://www.drupal.org/project/honeypot) - Honeypot uses both the honeypot and timestamp methods of deterring spam bots from completing forms on your Drupal site [read more here](http://www.midwesternmac.com/blogs/jeff-geerling/introducing-honeypot-form-spam). These methods are effective against many spam bots, and are not as intrusive as CAPTCHAs or other methods which punish the user [YouTube](http://www.youtube.com/watch?v=FPOezLL398U).
 23. [Taxonomy Access Control](https://www.drupal.org/project/taxonomy_access) - Access control for user roles based on taxonomy categories (vocabulary, terms).
+24. [reCaptcha](https://www.drupal.org/project/recaptcha) - Uses the Google [reCAPTCHA](https://www.google.com/recaptcha) web service to improve the [CAPTCHA](https://www.drupal.org/project/captcha) system and protect email addresses.
 
 Standalone Applications
 -----------------------
