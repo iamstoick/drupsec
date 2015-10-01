@@ -47,6 +47,7 @@ Modules
 26. [Mollom](https://www.drupal.org/project/mollom) - [Mollom](http://mollom.com/) is an intelligent content moderation web service. By monitoring content activity on all sites in the Mollom network, Mollom is in a unique position to determine if a post is potentially spam; not only based on the posted content, but also on the past activity and reputation of the poster.
 27. [http:BL](https://www.drupal.org/project/httpbl) - Implementation of [http:BL](http://www.projecthoneypot.org/httpbl.php) for Drupal. http:BL can prevent email address harvesters and comment spammers from visiting your site by using a centralized DNS blacklist.
 28. [UserOne](https://www.drupal.org/project/userone) - Since Drupal 7 is more restrictive in allowing multiple failed logins, using different names (in 6.x version) is not needed any longer.
+29. [MimeDetect](https://www.drupal.org/project/mimedetect) - MimeDetect provides an API for consistent server side mime detection using the PHP FileInfo extension, the UNIX 'file' command, user supplied mime data, or file extension lookups.
 
 Standalone Applications
 -----------------------
