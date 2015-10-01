@@ -45,6 +45,7 @@ Modules
 24. [reCaptcha](https://www.drupal.org/project/recaptcha) - Uses the Google [reCAPTCHA](https://www.google.com/recaptcha) web service to improve the [CAPTCHA](https://www.drupal.org/project/captcha) system and protect email addresses.
 25. [Spamicide](https://www.drupal.org/project/spamicide) - The purpose of Spamicide is to prevent spam submission to any form on your Drupal web site. Spamicide adds an input field to each form then hides it with css, when spam bots fill in the field the form is discarded.
 26. [Mollom](https://www.drupal.org/project/mollom) - [Mollom](http://mollom.com/) is an intelligent content moderation web service. By monitoring content activity on all sites in the Mollom network, Mollom is in a unique position to determine if a post is potentially spam; not only based on the posted content, but also on the past activity and reputation of the poster.
+27. [http:BL](https://www.drupal.org/project/httpbl) - Implementation of [http:BL](http://www.projecthoneypot.org/httpbl.php) for Drupal. http:BL can prevent email address harvesters and comment spammers from visiting your site by using a centralized DNS blacklist.
 
 Standalone Applications
 -----------------------
