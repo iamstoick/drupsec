@@ -50,6 +50,7 @@ Modules
 29. [MimeDetect](https://www.drupal.org/project/mimedetect) - MimeDetect provides an API for consistent server side mime detection using the PHP FileInfo extension, the UNIX 'file' command, user supplied mime data, or file extension lookups.
 30. [Captcha Riddler](https://www.drupal.org/project/riddler) - Captcha Riddler is a sub module of [Captcha](http://drupal.org/project/captcha) that lets site administrators create their own questions to foil automated spam bots.
 31. [Username Enumeration Prevention](https://www.drupal.org/project/username_enumeration_prevention) - By default Drupal is very secure (especially Drupal 7). However, there is a way to exploit the system by using a technique called username enumeration. This module will stop this from happening. When the module is enabled, the error message will be replaced for the same message as a valid user and they will be redirected back to the login form. If the user does not exist, no password reset email will be sent, but the attacker will not know this is the case.
+32. [Secure Login](https://www.drupal.org/project/securelogin) - Secure Login module enables the user login and other forms to be submitted securely via HTTPS, thus preventing passwords and other private user data from being transmitted in clear text. Secure Login module locks down not just the user/login page but also any page containing the user login block (or other forms that you configure to be secured).
 
 Standalone Applications
 -----------------------
