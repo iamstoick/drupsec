@@ -16,6 +16,7 @@ Resources
 11. [How to Restore Your Hacked Site](https://modulesunraveled.com/blog/how-restore-your-hacked-site)
 12. [Web Application Security Testing Cheat Sheet](https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet)
 13. [Handle text in a secure fashion](https://www.drupal.org/node/28984)
+14. [How to improve security on Drupal websites](https://www.drupal.org/node/2368709)
 
 Modules
 -------
